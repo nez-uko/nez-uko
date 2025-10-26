@@ -21,19 +21,20 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats  
+*(Stats will appear after more activity — keep pushing!)*  
 
-<img src="https://github-readme-stats.vercel.app/api?username=nez-uko&show_icons=true&theme=orange&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="Safaa's GitHub Stats" />
+<!-- مؤقتًا: صورة بديلة حتى تظهر الإحصائيات -->
+<img src="https://github-readme-stats.vercel.app/api?username=nez-uko&show_icons=true&theme=orange&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&cache_seconds=3600" alt="Safaa's GitHub Stats" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nez-uko&layout=compact&theme=orange&hide_border=true&hide=scss,jupyter" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nez-uko&layout=compact&theme=orange&hide_border=true&hide=scss,jupyter&cache_seconds=3600" alt="Top Languages" />  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nez-uko&theme=orange&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nez-uko&theme=orange&hide_border=true&cache_seconds=3600" alt="Streak" />  
 
 ---
 
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=orange&hide_border=true&show_icons=true&point=FF8C00" alt="Safaa's GitHub Activity Graph" />
+## Activity Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=orange&hide_border=true&show_icons=true&point=FF8C00&cache_seconds=3600" alt="Safaa's GitHub Activity Graph" />
 
 ---
 
