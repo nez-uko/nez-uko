@@ -33,15 +33,15 @@
 
 ## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=orange&hide_border=true&show_icons=true&point=FF6B00" alt="Safaa's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=orange&hide_border=true&show_icons=true&point=FF8C00" alt="Safaa's GitHub Activity Graph" />
 
 ---
 
 ## Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaa.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaa-abdelkhalek)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://safaa-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaa.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaa-abdelkhalek)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=vercel&logoColor=white)](https://safaa-dev.vercel.app)
 
 ---
 
