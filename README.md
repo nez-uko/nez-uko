@@ -1,58 +1,49 @@
-<div align="center">
+# Hey, What's up?  
 
-# Hey, What's up?
+## Hi there, I'm **Safaa Abdelkhalek**  
 
-## Hi there, I'm **Safaa Abdelkhalek**
+**Frontend Developer | Angular & RxJS Specialist**  
+*Building smooth, scalable, and real-time web apps with clean architecture*  
 
-**Frontend Developer | Angular & RxJS**  
-*Building smooth, scalable, and real-time web apps*  
-Passionate about clean code, performance, and user experience  
-Open Source | Always leveling up
+---
+
+### About Me  
+- **Frontend Engineer** with 2+ years of hands-on experience in **Angular**, **TypeScript**, and **RxJS**  
+- Passionate about **performance optimization**, **state management**, and **user-centric design**  
+- Currently exploring **Node.js** and **Python** for full-stack & algorithmic projects  
+- Always learning 
 
 ---
 
 ## I code with
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,nodejs,cpp,github,python" height="50" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,nodejs,cpp,github,python" height="50" />
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nez-uko&show_icons=true&theme=orange&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" alt="Safaa's GitHub Stats" />
 
-![Safaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nez-uko&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nez-uko&layout=compact&theme=orange&hide_border=true&hide=scss,jupyter" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nez-uko&layout=compact&theme=radical&hide_border=true&hide=scss,jupyter)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nez-uko&theme=radical&hide_border=true)
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nez-uko&theme=orange&hide_border=true" alt="Streak" />
 
 ---
 
 ## Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=radical&hide_border=true&show_icons=true&point=ffffff" alt="Safaa's GitHub Activity Graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nez-uko&theme=orange&hide_border=true&show_icons=true&point=FF6B00" alt="Safaa's GitHub Activity Graph" />
 
 ---
 
 ## Let's Connect!
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaa.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaa-abdelkhalek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://safaa-dev.vercel.app)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaa.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaa-abdelkhalek)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://safaa-dev.vercel.app)
 
 ---
 
-**"Good code is its own best documentation."** – Steve McConnell
-
-</div>
+**"Good code is its own best documentation."** – Steve McConnell  
+*— And great developers write their story in every commit.*
