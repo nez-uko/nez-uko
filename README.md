@@ -16,7 +16,7 @@ Currently, I bridge the gap between **Angular** and **Node.js/Express**, committ
 
 ### 🛠 My Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,express,mongodb,mysql,bootstrap,tailwind,github,python,cpp,postman,vscode" height="50" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,express,mongodb,bootstrap,github,python,cpp,postman,vscode" height="50" />
 
 | Category | Tools & Technologies |
 | :--- | :--- |
