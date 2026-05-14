@@ -21,9 +21,10 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | Angular, TypeScript, RxJS, JavaScript, Bootstrap, Tailwind |
+| **Frontend** | Angular, TypeScript, RxJS, TypeScript, Bootstrap, Tailwind |
 | **Backend** | Node.js, Express.js, Python, C++ |
 | **Tools** | Git, GitHub, Trello, Postman, VS Code |
+| **Languages** | c++, python, c++, javaScript |
 
 ---
 
