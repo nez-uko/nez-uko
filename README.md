@@ -17,18 +17,13 @@
 
 ### 🛠 My Tech Stack
 
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,express,mongodb,mysql,bootstrap,tailwind,github,python,cpp,postman,vscode" height="50" />
+
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | Angular, TypeScript, RxJS, JavaScript, Bootstrap |
-| **Backend** | Node.js, Express.js |
-| **Tools** | Git, GitHub, Trello, Postman |
-
----
-
-### 🏆 Achievements
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nez-uko&theme=juicyfresh&no-bg=true&column=4" alt="trophy" /></a>
-</p>
+| **Frontend** | Angular, TypeScript, RxJS, JavaScript, Bootstrap, Tailwind |
+| **Backend** | Node.js, Express.js, Python, C++ |
+| **Tools** | Git, GitHub, Trello, Postman, VS Code |
 
 ---
 
@@ -41,4 +36,3 @@
 ---
 
 **"Good code is its own best documentation."**  
-*— Writing my story in every commit.*
